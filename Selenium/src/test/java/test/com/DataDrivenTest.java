@@ -22,7 +22,9 @@ public class DataDrivenTest {
      public Object[][] generatedata(){
 		 
 		 //int[][] data ={{3,4,5},{6,7,8}};
-		 String [][] htwtdata={{"178","45"},{"198","77"},{"123","34"}};
+		 //String [][] htwtdata={{"178","45"},{"198","77"},{"123","34"}};
+		 //Add a cod which will go and read the data from the excel sheet
+		 
 		 return htwtdata;
 //this function is going to generate and pass the data to other function
 	
